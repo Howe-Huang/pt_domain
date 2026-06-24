@@ -2,21 +2,19 @@ payload:
   - DOMAIN,carpt.net
   - DOMAIN,ptchdbits.co
   - DOMAIN,hdhome.org
-  - DOMAIN,pt.keepfrds.com
+  - DOMAIN,keepfrds.com
   - DOMAIN,open.cd
   - DOMAIN,m-team.cc
   - DOMAIN,ourbits.club
   - DOMAIN,totheglory.im
   - DOMAIN,pterclub.net
   - DOMAIN,hhanclub.net
-  - DOMAIN,tracker.pterclub.net
-  - DOMAIN,tracker.open.cd
-  - DOMAIN,tracker.carpt.net
-  - DOMAIN,tracker.totheglory.im
-  - DOMAIN,tracker.m-team.cc
-  - DOMAIN,tracker.ptchdbits.co
-  - DOMAIN,tracker.rainbowisland.co
+  - DOMAIN,audiences.me
+  - DOMAIN,hdsky.me
+  - DOMAIN,hddolby.com
+  
+  - DOMAIN,cinefiles.info
+  - DOMAIN,rainbowisland.co
   - DOMAIN,chdbits.xyz
-  - DOMAIN,t.hdhome.org
-  - DOMAIN,tracker.keepfrds.com
-  - DOMAIN,tracker.hhanclub.net
+  
+  
